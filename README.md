@@ -1,4 +1,3 @@
-## Hi there 👋
 
 # 👋 Hi, I'm Parshant Vardhan
 
@@ -8,7 +7,7 @@ fundamentals, holding a published patent and Consistently solved DSA problems so
 ---
 
 ### 🌱 Currently Learning
-- Advanced **Blazor techniques**  
+- Web Technologies
 - **React** for enhanced web experiences  
 
 ### 💻 Current Project
