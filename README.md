@@ -25,7 +25,7 @@ fundamentals, holding a published patent and Consistently solved DSA problems so
 ---
 
 ### 🌐 Socials
-[![Portfolio](https://img.shields.io/badge/My%20Portfolio-ff69b4?style=for-the-badge&logo=github)]()
+[![Portfolio](https://img.shields.io/badge/My%20Portfolio-ff69b4?style=for-the-badge&logo=github)](https://parshant-v8.vercel.app/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram)]()
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/parshant-vardhan-a75293259/)
 
